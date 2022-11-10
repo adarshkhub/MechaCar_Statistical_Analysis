@@ -21,7 +21,7 @@ With an r-squared of 0.7149 which indicates a strong correlation exists, this li
 
 ## Summary Statistics on Suspension Coils
 
-#Total Summary DataFrame
+Total Summary DataFrame
 ![Total Summary DF](https://user-images.githubusercontent.com/67844710/200986095-3e97abc6-059c-4412-af51-d7b362f4c382.png)
 
 Lot Summary DataFrame
