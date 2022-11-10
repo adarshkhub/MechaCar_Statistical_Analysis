@@ -34,10 +34,13 @@ At a variance of 62.29 for all manufacturing lots in total, the design specifica
 ## T-Tests on Suspension Coils
 All Lots
 ![T All Lots](https://user-images.githubusercontent.com/67844710/200996048-c46b238b-30f7-4e5f-80c6-df0fc70cf56e.png)
+
 Lot 1
 ![T Lot 1](https://user-images.githubusercontent.com/67844710/200996061-e0bab9ce-2e99-411f-9f8f-6440e8777b67.png)
+
 Lot 2
 ![T Lot 2](https://user-images.githubusercontent.com/67844710/200996067-b02b4e89-5ae3-4389-be0e-267d09a60793.png)
+
 Lot 3
 ![T Lot 3](https://user-images.githubusercontent.com/67844710/200996074-5cdc240e-1349-40e6-a455-d79cc0755fa7.png)
 
